@@ -1,0 +1,100 @@
+body{
+	background-color:black;
+	margin:0;
+	padding:0;
+  direction:ltr;
+}
+
+p{
+	color:SeaShell;
+	font-size:50px;
+	font-weight:normal;
+	font-style:sans-serif;
+	text-align:center;
+	margin:20px auto auto;
+}
+h1{
+	margin:20px auto auto auto;
+    font-size:60px;
+    font-family: sans-serif;
+    font-weight:normal;
+    text-align:center;
+    color:SeaShell;
+}
+
+.box{
+	background-color:black;
+	width:600px;
+	height:500px;
+	margin: 20px auto auto auto;
+}
+
+.buttons{
+	width:580px;
+	height:155px;
+	margin:10px 10px 0 10px;
+	background-color:black;
+	padding:0px;
+}
+
+.bottom-border{
+	border-bottom:5px solid SeaShell;
+	border-radius:none;
+}
+
+.button{
+	width:180px;
+	height:150px;
+	margin:0px 0px 0px 10px;
+	background-color:black;
+	border:none;
+	display:inline;
+}
+
+.button-text{
+	font-size:30px;
+	font-style:sans-serif;
+	text-align:center;
+	color:SeaShell;
+	padding:0px;
+}
+
+.border-left{
+	border-right:5px solid SeaShell;
+	border-radius:none;
+}
+
+.level{
+	width:700px;
+	height:60px;
+	background-color:black;
+	margin:30px auto auto auto;
+}
+
+.butt{
+   border:2px solid SeaShell;
+   border-radius:5px;
+   background-color:black;
+   color:SeaShell;
+   font-size:40px;
+   font-style:sans-serif;
+   text-align:center;
+   width:200px;
+   height:60px;
+   margin:0px 0px 0px 25px;
+}
+
+.start{
+   width:400px;
+   height:70px;
+   text-align:center;
+   font-size:35px;
+   font-style:sans-serif;
+   border:2px solid SeaShell;
+   border-radius:5px;
+   background-color:black;
+   color:SeaShell;
+   margin:30px auto auto;
+   display:block;
+}
+
